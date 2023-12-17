@@ -1,0 +1,37 @@
+- contains the template a common session
+-
+- session s# e#
+	- name
+		- the title of the session's episode
+	- date
+		- the date of the session
+	- objective(s)
+		- the goals for this session (as detailed as possible)
+	- in-session notes
+		- found rabit holes
+			- new found rabit holes
+		- notes
+			- optional temporary notes
+		- recap
+			- quick recap of the most important key takeaways
+			- optional with references
+	- details
+		- references to fine granular details and less important takeaways learned in this session
+-
+- template:
+	- session s# e#
+		- name
+			- x
+		- date
+			- x
+		- objective(s)
+			- x
+		- in-session notes
+			- found rabit holes
+				- x
+			- notes
+				- x
+			- recap
+				- x
+		- details
+			- x
