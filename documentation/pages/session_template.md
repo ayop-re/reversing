@@ -7,6 +7,8 @@
 		- the date of the session
 	- objective(s)
 		- the goals for this session (as detailed as possible)
+	- preparation
+		- commands and more to be prepared
 	- in-session notes
 		- found rabit holes
 			- new found rabit holes
@@ -25,6 +27,8 @@
 		- date
 			- x
 		- objective(s)
+			- x
+		- preparation
 			- x
 		- in-session notes
 			- found rabit holes
