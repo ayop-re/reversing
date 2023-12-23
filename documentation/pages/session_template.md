@@ -1,7 +1,7 @@
 - contains the template a common session
 -
 - session s# e#
-	- name
+	- title
 		- the title of the session's episode
 	- date
 		- the date of the session
@@ -22,7 +22,7 @@
 -
 - template:
 	- session s# e#
-		- name
+		- title
 			- x
 		- date
 			- x
